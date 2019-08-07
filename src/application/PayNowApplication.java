@@ -12,5 +12,11 @@ public class PayNowApplication {
 		System.out.println("Version 1");
 		System.out.println("This is the developer branch");
 	}
+	
+	void withdraw() {
+		System.out.println("This is a login method");
+		System.out.println("Version 2");
+		System.out.println("Developer B branch");
+	}
 
 }
