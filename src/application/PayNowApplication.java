@@ -24,5 +24,11 @@ public class PayNowApplication {
 		System.out.println("Version 3");
 		System.out.println("Developer C branch");
 	}
+	
+	void checkBalance() {
+		System.out.println("This is a check balance method");
+		System.out.println("Version 4");
+		System.out.println("Developer C branch");
+	}
 
 }
