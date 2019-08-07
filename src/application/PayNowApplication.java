@@ -18,5 +18,11 @@ public class PayNowApplication {
 		System.out.println("Version 2");
 		System.out.println("Developer B branch");
 	}
+	
+	void deposit() {
+		System.out.println("This is a deposit method");
+		System.out.println("Version 3");
+		System.out.println("Developer C branch");
+	}
 
 }
